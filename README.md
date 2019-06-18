@@ -1,4 +1,4 @@
-# Forecasting TimeserieS
+# Forecasting Timeseries
 
 This file consists of **3 different projects** on Forecasting Timeseries in R, developed during the IE MBD '18 program. The 3 are:    
 
